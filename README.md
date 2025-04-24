@@ -53,7 +53,7 @@ Experiments Conducted :
 ### 💡 Note on DL Exploration
 
 In the latter stages of the project, we also explored:
-- **CNN-based feature extraction** from posture keypoints.
+- **CNN-based approach** from posture keypoints.
   <p align="center">
   <img src="https://github.com/user-attachments/assets/46c22af3-6cd2-4e2e-8ed1-8442f24a2f37" width="500" alt="System Flow Diagram"/>
   <br>
