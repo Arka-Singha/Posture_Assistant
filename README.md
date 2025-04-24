@@ -25,6 +25,14 @@ Designed a real-time feedback mechanism.
 Input → Pose Detection → Posture Classification → Feedback
 Output
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1010f358-f0e5-4c47-ba10-0781c7949147" width="500" alt="System Flow Diagram"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e1f1510-3702-488d-a30b-226efa0df5a5" width="500" alt="System Flow Diagram"/>
+</p>
+
 ![image](https://github.com/user-attachments/assets/1010f358-f0e5-4c47-ba10-0781c7949147)
 ![image](https://github.com/user-attachments/assets/9e1f1510-3702-488d-a30b-226efa0df5a5)
 
