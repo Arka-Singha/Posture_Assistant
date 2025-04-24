@@ -26,15 +26,18 @@ Input → Pose Detection → Posture Classification → Feedback
 Output
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1010f358-f0e5-4c47-ba10-0781c7949147" width="500" alt="System Flow Diagram"/>
+  <img src="https://github.com/user-attachments/assets/1010f358-f0e5-4c47-ba10-0781c7949147" width="500" alt="Flow Diagram"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74378603-cfb7-494a-a56e-bfcd71871350" width="500" alt="System Flow Diagram"/>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9e1f1510-3702-488d-a30b-226efa0df5a5" width="500" alt="System Flow Diagram"/>
 </p>
 
-![image](https://github.com/user-attachments/assets/1010f358-f0e5-4c47-ba10-0781c7949147)
-![image](https://github.com/user-attachments/assets/9e1f1510-3702-488d-a30b-226efa0df5a5)
+
 
 
 ## 🔬 Experimental Results
@@ -44,13 +47,40 @@ Experiments Conducted :
 • trained models for seated-specific posture scenarios. 
 • Demonstrated system compatibility with low-power devices like normal webcam.
 
-### 💡 Note on  Exploration
+### 💡 Note on DL Exploration
 
 In the latter stages of the project, we also explored:
 - **CNN-based feature extraction** from posture keypoints.
-      Achieved 62.78 % accuracy
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/46c22af3-6cd2-4e2e-8ed1-8442f24a2f37" width="500" alt="System Flow Diagram"/>
+</p>
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/d8e89824-141b-4a1a-91d8-f5c2f64c8cf8" width="500" alt="System Flow Diagram"/>
+</p>
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/07f1462f-7ec3-482e-b898-c0fcd6a60e52" width="500" alt="System Flow Diagram"/>
+</p>
+
+
+
+
+  -    Achieved 62.78 % accuracy
 - **MLP (Multi-Layer Perceptron)** models for binary classification.
-      Achieved 91.79 % accuracy for upper body and 88.61 % accuracy for lower body due to feature extraction.
+    <p align="center">
+  <img src="https://github.com/user-attachments/assets/96634ce0-aafc-4cbb-b72c-4c535eb7afb4" width="500" alt="System Flow Diagram"/>
+</p>
+
+-    <p align="center">
+  <img src="https://github.com/user-attachments/assets/7cdc0207-4cbf-4ba3-a8c8-6ae56854dd30" width="500" alt="System Flow Diagram"/>
+</p>
+
+-    <p align="center">
+  <img src="https://github.com/user-attachments/assets/1445c0f3-463d-4807-8c73-707f72b76c5e" width="500" alt="System Flow Diagram"/>
+</p>
+
+- Achieved 91.79 % accuracy for upper body and 88.61 % accuracy for lower body due to feature extraction.
 - Comparisons between rule-based logic and learned classifiers.
 
 These insights could inform a more intelligent posture coach in future versions.
