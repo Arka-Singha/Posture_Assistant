@@ -72,11 +72,11 @@ In the latter stages of the project, we also explored:
   <img src="https://github.com/user-attachments/assets/96634ce0-aafc-4cbb-b72c-4c535eb7afb4" width="500" alt="System Flow Diagram"/>
 </p>
 
--    <p align="center">
+-  <p align="center">
   <img src="https://github.com/user-attachments/assets/7cdc0207-4cbf-4ba3-a8c8-6ae56854dd30" width="500" alt="System Flow Diagram"/>
 </p>
 
--    <p align="center">
+-   <p align="center">
   <img src="https://github.com/user-attachments/assets/1445c0f3-463d-4807-8c73-707f72b76c5e" width="500" alt="System Flow Diagram"/>
 </p>
 
