@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Health Concern: Poor posture leads to severe health issues such as Thoracic Kyphosis, Chronic Lower Back Pain, Cervical Spondylosis, Herniated Disc. Specially for those who use PC or laptop for long hours. Costly Solutions: Existing systems are expensive and bulky. Real-Time Need: This project aims to design a cost- effective, lightweight posture guidance system using computer vision and machine learning.
+Health Concern: Poor posture leads to severe health issues such as Thoracic Kyphosis, Chronic Lower Back Pain, Cervical Spondylosis, Herniated Disc. Specially for those who use PC or laptop for long hours. Costly Solutions: Existing systems are expensive and bulky. Real-Time Need: This project aims to design a cost- effective, lightweight posture guidance system using computer vision and machine learning. Explored both the approaches: threshold based and DL based.
 
 ## Objectives
 • Develop a portable device capable of analyzing seated posture in real time.
